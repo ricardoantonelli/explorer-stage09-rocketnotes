@@ -19,7 +19,7 @@ export function New() {
                     
                     <header>
                         <h1>Criar nota</h1>
-                        <Link to='/'></Link>
+                        <Link to='/'>voltar</Link>
                     </header>
                 
                     <Input placeholder="Título"/>
